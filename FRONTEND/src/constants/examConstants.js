@@ -1,0 +1,10 @@
+export const GET_EXAM = "GET_EXAM";
+export const GET_EXAM_FAILED = "GET_EXAM_FAILED";
+export const DELETE_EXAM = "DELETE_EXAM";
+export const UPDATE_EXAM = "UPDATE EXAM";
+export const CREATE_EXAM = "CREATE_EXAM";
+export const CREATE_EXAM_FAIL = "CREATE_EXAM_FAIL";
+export const GET_RESULTS = "GET_RESULTS";
+export const GET_RESULTS_FAIL = "GET_RESULTS_FAIL";
+export const SUBMIT_EXAM = "SUBMIT_EXAM";
+export const SUBMIT_EXAM_FAIL = "SUBMIT_EXAM_FAIL";
